@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "object": "Contact",
+      "id": "ao6grd4ed38kyeqz",
+      "contact": "linkedin.com",
+      "type": "web",
+      "created_at": {
+        "date": "2018-11-07 22:21:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "updated_at": {
+        "date": "2018-11-07 22:21:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      }
+    },
+    {
+      "object": "Contact",
+      "id": "8ykwxd4gx3ampj9v",
+      "contact": "youtube.com",
+      "type": "video",
+      "created_at": {
+        "date": "2018-11-07 22:21:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "updated_at": {
+        "date": "2018-11-07 22:21:39.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      }
+    }
+  ],
+  "meta": {
+    "include": [],
+    "custom": []
+  }
+}

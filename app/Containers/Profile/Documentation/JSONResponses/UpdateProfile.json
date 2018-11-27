@@ -1,0 +1,22 @@
+{
+  "data": {
+    "object": "Profile",
+    "id": "lnmojg5bv4ew80ra",
+    "description": "This is updated profile description",
+    "title": "Senior NODE developer",
+    "created_at": {
+      "date": "2018-11-07 21:57:00.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "updated_at": {
+      "date": "2018-11-07 23:06:05.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    }
+  },
+  "meta": {
+    "include": [],
+    "custom": []
+  }
+}

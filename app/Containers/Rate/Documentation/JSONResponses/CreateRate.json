@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "object": "Rate",
+      "id": "qmv7dk48x5b690wx",
+      "hourly_rate": "20",
+      "minimum_hour": "15",
+      "rate_comment": "Working minimum 15 hours",
+      "created_at": {
+        "date": "2018-11-12 19:54:27.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      },
+      "updated_at": {
+        "date": "2018-11-12 19:54:27.000000",
+        "timezone_type": 3,
+        "timezone": "UTC"
+      }
+    }
+  ],
+  "meta": {
+    "include": [],
+    "custom": []
+  }
+}

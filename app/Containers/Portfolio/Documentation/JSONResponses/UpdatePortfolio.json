@@ -1,0 +1,94 @@
+{
+  "data": {
+    "object": "Portfolio",
+    "id": "kxeml73ox3d9qbr0",
+    "name": "PHP project",
+    "description": "Some basic php project description",
+    "url": "http://yahoo.com",
+    "scale": "2",
+    "created_at": {
+      "date": "2018-11-20 21:21:51.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "updated_at": {
+      "date": "2018-11-20 21:25:02.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "gallery": {
+      "data": {
+        "object": "Gallery",
+        "id": "bml0wd39vb4pkzna",
+        "name": "PHP project",
+        "description": "Some basic php project description",
+        "created_at": {
+          "date": "2018-11-20 21:21:51.000000",
+          "timezone_type": 3,
+          "timezone": "UTC"
+        },
+        "updated_at": {
+          "date": "2018-11-20 21:21:51.000000",
+          "timezone_type": 3,
+          "timezone": "UTC"
+        },
+        "file": {
+          "data": [
+            {
+              "object": "File",
+              "id": "kxeml73opn4d9qbr",
+              "path": "public/files/356a192b7913b04c54574d18c28d46e6395428ab/1542748911_4c1717c0-ed0a-11e8-a713-c9bbadc8be97.jpg",
+              "description": null,
+              "created_at": {
+                "date": "2018-11-20 21:21:51.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+              },
+              "updated_at": {
+                "date": "2018-11-20 21:21:51.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+              },
+            },
+            {
+              "object": "File",
+              "id": "reloj65pgp5v8ndy",
+              "path": "public/files/356a192b7913b04c54574d18c28d46e6395428ab/1542748911_4c17df40-ed0a-11e8-96eb-d7f06611c3a6.jpg",
+              "description": null,
+              "created_at": {
+                "date": "2018-11-20 21:21:51.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+              },
+              "updated_at": {
+                "date": "2018-11-20 21:21:51.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+              },
+            },
+            {
+              "object": "File",
+              "id": "rja6z74qgb3mlqyk",
+              "path": "public/files/356a192b7913b04c54574d18c28d46e6395428ab/1542748911_4c1850e0-ed0a-11e8-8ba5-93b2d4f1b86e.jpg",
+              "description": null,
+              "created_at": {
+                "date": "2018-11-20 21:21:51.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+              },
+              "updated_at": {
+                "date": "2018-11-20 21:21:51.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+              },
+            }
+          ]
+        }
+      }
+    }
+  },
+  "meta": {
+    "include": [],
+    "custom": []
+  }
+}

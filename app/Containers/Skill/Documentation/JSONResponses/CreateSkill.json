@@ -1,0 +1,21 @@
+{
+  "data": {
+    "object": "Skill",
+    "id": "vmg6q369yl3b8kzr",
+    "name": "PHP",
+    "created_at": {
+      "date": "2018-11-12 20:38:54.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    },
+    "updated_at": {
+      "date": "2018-11-12 20:38:54.000000",
+      "timezone_type": 3,
+      "timezone": "UTC"
+    }
+  },
+  "meta": {
+    "include": [],
+    "custom": []
+  }
+}
